@@ -1,2 +1,9 @@
-# fake-rarity
- Ce petit code, inspiré d'une vidéo de Antho Welc, vous permet de créer un système générant de la fausse rareté, en faisant croire qu'il reste "x" exemplaire(s) en stock.
+# Fake Rarity - Générateur de publicité mensogère.
+ Petit code, inspiré d'une vidéo du YouTuber "AntoWelc - HardCoders", permettant de créer une fausse rareté, sur un stock qui n'est que fictif, afin d'inciter les gens à "racker la thunasse 😎"
+ 
+ Sources : 
+ 
+ CSS Directement pris du codepen de "egoens" : 
+ https://codepen.io/egoens/pen/NbmEbR
+ AntoWelc, YouTuber qui a fait une vidéo sur le sujet qui m'a grandement inspiré : 
+ https://www.youtube.com/user/ucisko
